@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "name": "nodejs200",
+  "description": "nodejs200practice",
+  "version": "1.0.0",
+  "main": "001_print_hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mucollabo/nodejs200.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "charles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mucollabo/nodejs200/issues"
+  },
+  "homepage": "https://github.com/mucollabo/nodejs200#readme"
+}
