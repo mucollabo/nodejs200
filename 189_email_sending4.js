@@ -16,7 +16,7 @@ function sendMail(arHeadline) {
         service: 'Gmail',
         auth: {
             user: 'charles01dev@gmail.com',
-            pass: 'aqmvavyewroangwm'
+            pass: '****'
         },
     });
 
